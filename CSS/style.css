@@ -38,7 +38,7 @@
     font-weight: bolder;
 }
 .content{
-    border: 1px solid black;
+    border: 2px solid black;
     height:160px;
     width: 125px;
     margin-left: 10px;
@@ -67,7 +67,7 @@ button{
    
 }
 .box2 {
-    border: 1px solid black;
+    border: 2px solid black;
     height: 230px;
     width: 300px;
 }
