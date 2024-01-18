@@ -1,4 +1,4 @@
-# Guvi-Day-12-Task
+# Guvi-Day-12-Task-1
 
 ## Mini Task using HTML and CSS
 
